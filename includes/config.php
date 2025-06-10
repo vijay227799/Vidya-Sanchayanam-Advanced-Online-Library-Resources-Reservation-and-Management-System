@@ -1,9 +1,9 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
-define('DB_NAME','library');
+define('DB_HOST','sql12.freesqldatabase.com');
+define('DB_USER','sql12784015');
+define('DB_PASS','6AYKI1Zv75');
+define('DB_NAME','sql12784015');
 // Establish database connection.
 try
 {
