@@ -29,9 +29,9 @@ It provides a <b> user-friendly interface </b> for students and faculty, while a
 ---
 
  <h2>⚙️ System Architecture </h2>
-- <b> Admin Module:</b>  
+- <b> Admin Module:</b>  <br>
   - Add/view/search inventory  <br>
-  - Manage students & generate reports <br>  
+  - Manage students & Library Resources <br>  
   - Issue/return books securely  <br>
 
 - <b> User Module:</b> 
