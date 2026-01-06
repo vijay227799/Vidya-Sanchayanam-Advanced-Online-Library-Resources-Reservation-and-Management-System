@@ -33,7 +33,7 @@ It provides a <b> user-friendly interface </b> for students and faculty, while a
 <b> Admin Module </b>
 - Add / View / Search Inventory
 - Manage Students & Library Resources
-- Issue / Return Books Securely
+- Issue / Return Books Securely <br>
 <b> User Module </b>
 - Manage Profile & Borrowing History
 - Search Catalog by Title, Author, or Category
