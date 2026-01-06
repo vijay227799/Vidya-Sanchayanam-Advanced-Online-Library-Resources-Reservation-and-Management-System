@@ -5,37 +5,36 @@
 ---
 
 <h2> 🚀 Overview </h2>
-**Vidya Sanchayanam** is a **web-based library management system** designed to simplify cataloging, borrowing, returning, and tracking of books.  
-It provides a **user-friendly interface** for students and faculty, while administrators benefit from **robust backend tools** for efficient resource management.
+<b> Vidya Sanchayanam</b> is a <b> web-based library management system </b> designed to simplify cataloging, borrowing, returning, and tracking of books.  
+It provides a <b> user-friendly interface </b> for students and faculty, while administrators benefit from <b> robust backend tools</b> for efficient resource management.
 
 ---
 
 <h2> ✨ Key Features </h2>
-- 🔑 **Secure Login & Authentication** – Admin & User modules with verified credentials <br> 
-- 📖 **Catalog Management** – Add, search, and update books, journals, and newspapers  <br>
-- 🔄 **Borrowing & Returning** – Automated transactions with real-time inventory updates  <br>
-- 📌 **Reservation System** – Reserve books currently checked out by others  <br>
-- ⏰ **Overdue Tracking** – Automatic reminders and fine calculation  <br>
-- 📊 **Analytics & Reporting** – Insights into usage patterns and resource popularity  <br>
-- 📱 **Responsive Design** – Built with Bootstrap for seamless use across devices  <br>
+- 🔑 <b>Secure Login & Authentication </b> – Admin & User modules with verified credentials <br> 
+- 📖 <b>Catalog Management </b> – Add, search, and update books, journals, and newspapers  <br>
+- 🔄 <b> Borrowing & Returning </b> – Automated transactions with real-time inventory updates  <br>
+- 📌 <b> Reservation System </b> – Reserve books currently checked out by others  <br>
+- ⏰ <b> Overdue Tracking </b> – Automatic reminders and fine calculation  <br>
+- 📱 <b> Responsive Design </b> – Built with Bootstrap for seamless use across devices  <br>
 
 ---
 
  <h2> 🛠️ Tech Stack </h2>
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, AJAX  <br>
-- **Backend:** PHP  <br>
-- **Database:** MySQL  <br>
-- **Tools:** VS Code, XAMPP  
+- <b> Frontend:</b> HTML, CSS, JavaScript, Bootstrap, AJAX  <br>
+- <b> Backend:</b> PHP  <br>
+- <b> Database:</b> MySQL  <br>
+- <b> Tools:</b> VS Code, XAMPP  
 
 ---
 
  <h2>⚙️ System Architecture </h2>
-- **Admin Module:**  
+- <b> Admin Module:</b>  
   - Add/view/search inventory  <br>
   - Manage students & generate reports <br>  
   - Issue/return books securely  <br>
 
-- **User Module:**  
+- <b> User Module:</b> 
   - Manage profile & borrowing history  <br>
   - Search catalog by title, author, or category <br>  
   - Borrow/return books with real-time updates  <br>
