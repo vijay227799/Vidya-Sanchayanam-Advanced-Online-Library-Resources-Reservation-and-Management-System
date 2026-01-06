@@ -29,15 +29,16 @@ It provides a <b> user-friendly interface </b> for students and faculty, while a
 ---
 
  <h2>⚙️ System Architecture </h2>
-- <b> Admin Module:</b>  <br>
-   - Add/view/search inventory  <br>
-   - Manage students & Library Resources <br>  
-   - Issue/return books securely  <br>
 
-- <b> User Module:</b> 
-  - Manage profile & borrowing history  <br>
-  - Search catalog by title, author, or category <br>  
-  - Borrow/return books with real-time updates  <br>
+<b> Admin Module </b>
+- Add / View / Search Inventory
+- Manage Students & Library Resources
+- Issue / Return Books Securely
+<b> User Module </b>
+- Manage Profile & Borrowing History
+- Search Catalog by Title, Author, or Category
+- Borrow / Return Books with Real-Time Updates
+
 
 ---
 <h2>📊 Results </h2>
